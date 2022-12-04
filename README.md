@@ -1,5 +1,5 @@
 # HORISEON landing page: code refactor
-![img](Develop\assets\images\sc.JPG)
+![img](screenshot.JPG)
 
 ## Motivation
 Refactoring existing code without actually changing what it does is a large part of what web development teams do. New technology, refining drafts of code, or fulfilling newly implemented standards are a few reasons why it is such a common problem. There is always work to be done on good applications. This is the reason why there are constant updates for apps and the reason why it's best to keep apps on auto-update. Hinging on this fact is the challenge, HORISEON landing page: code refactor.
